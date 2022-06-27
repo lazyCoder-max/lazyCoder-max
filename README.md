@@ -1,6 +1,6 @@
 </div>
  <hr>
-<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Smegnsh
+<h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kidus Daniel
  </h1>
 <h3 align="center">Senior .NET Engineer  |  Full-Stack Developer </h3>
 <p align="center">
