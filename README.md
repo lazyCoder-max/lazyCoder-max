@@ -16,8 +16,6 @@
 - 📫 You want to get in touch with me?: kidusdaniel@outlook.com, https://t.me/LaziCoder
 - 😄 Pronouns: He or Team player.
 
-
-<!-- 
  <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activity</b></i></p>
  
