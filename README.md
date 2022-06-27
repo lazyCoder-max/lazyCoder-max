@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kidus Daniel
 - 👀 I’m a Professional .NET Developer with 5+ years work experience  
-- 🌱 I’m currently working at Macrosoft Labs, Slovakia
+- 🌱 I’m currently working at Authentic Athena GmbH, Germany
 - 📫 You can contact me with Email or LinkedIn
 - https://lazycoder-max.github.io/kidusdaniel/
