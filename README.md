@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on ## any Software Development Projects with c# and .NET, and Open Source contribution .
 - 🤔 I’m looking for help with learning # Block chain, Pairs trading
 - 💬 Ask me about I would love to here, and # help only if the ball is in my court!.
-- 📫 You want to get in touch with me?:
+- 📫 You want to get in touch with me?:</br>
     Email: kidusdaniel@outlook.com</br>
     Telegram: https://t.me/LaziCoder</br>
     Skype: live:kidusdaniel</br>
