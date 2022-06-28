@@ -1,3 +1,6 @@
+<head>
+ <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"/>
+</head>
 </div>
  <hr>
 <h1 align="center"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Kidus Daniel
@@ -13,7 +16,11 @@
 - 👯 I’m looking to collaborate on ## any Software Development Projects with c# and .NET, and Open Source contribution .
 - 🤔 I’m looking for help with learning # Block chain, Pairs trading
 - 💬 Ask me about I would love to here, and # help only if the ball is in my court!.
-- 📫 You want to get in touch with me?: kidusdaniel@outlook.com, https://t.me/LaziCoder
+- 📫 You want to get in touch with me?:
+    Email: kidusdaniel@outlook.com
+    Telegram: https://t.me/LaziCoder
+    Skype: live:kidusdaniel
+    <i class="fa-brands fa-discord"></i> Discord: @lazycoder#1171
 - 😄 Pronouns: He or Team player.
 
  <p align="center">
