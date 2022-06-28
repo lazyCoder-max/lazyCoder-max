@@ -17,10 +17,10 @@
 - 🤔 I’m looking for help with learning # Block chain, Pairs trading
 - 💬 Ask me about I would love to here, and # help only if the ball is in my court!.
 - 📫 You want to get in touch with me?:
-    Email: kidusdaniel@outlook.com
-    Telegram: https://t.me/LaziCoder
-    Skype: live:kidusdaniel
-    <i class="fa-brands fa-discord"></i> Discord: @lazycoder#1171
+    Email: kidusdaniel@outlook.com</br>
+    Telegram: https://t.me/LaziCoder</br>
+    Skype: live:kidusdaniel</br>
+    Discord: @lazycoder#1171</Br>
 - 😄 Pronouns: He or Team player.
 
  <p align="center">
