@@ -109,6 +109,9 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lazyCoder-max&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only" align="center"/>
+</div>
 
 
 ## Recent Blog Posts  
