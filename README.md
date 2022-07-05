@@ -110,7 +110,7 @@
 
 <br/>  
 <div align="center">
-  <img src="https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCoder-max&layout=compact" align="center"/>
 </div>
 
 
