@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Kidus, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Kidus, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
   
 
 - 🔭I’m currently working at Authentic Athena GmbH, Germany  
