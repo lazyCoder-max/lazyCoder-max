@@ -1,131 +1,141 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Kidus, a full-time full-stack freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
-  
+<!-- Hero -->
+<img src="https://rishavanand.github.io/static/images/greetings.gif" alt="greetings" style="width:100%; max-height:300px; object-fit:cover; border-radius:12px" />
 
-- 🔭I’m currently working at Authentic Athena GmbH, Germany  
-  
+<h1 align="center">Hi, I'm Kidus — full‑stack dev, cloud tinkerer & lifelong learner 👋</h1>
 
-- 🌱 I’m currently learning ABP framework and Kubernetes  
-  
+<p align="center">
+  <em>Freelance • Remote • Building reliable web experiences since 2020</em>
+</p>
 
-- ❓ Ask me about anything related to the .NET framework and related technologies  
-  
+<!-- Social badges -->
+<p align="center">
+  <a href="https://github.com/lazyCoder-max" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/kidus-daniel" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/LaziCoder" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://www.buymeacoffee.com/lazyCoder-max" title="Buy me a coffee">
+    <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee">
+  </a>
+</p>
 
-- ⚡ Fun fact: I started programing when i was a middle school student.   
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## Snapshot
+- 🔭 Currently working at: Authentic Athena GmbH (Germany)
+- 🌱 Learning: ABP framework, Kubernetes, and better automation for infra-as-code
+- 💬 Ask me about: .NET, C#, backend architecture, PostgreSQL, Redis, and deployment pipelines
+- ⚡ Fun fact: I started programming in middle school — curiosity never left!
 
+---
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />    
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" />  
+## Table of contents
+- [What I build](#what-i-build)
+- [Tech Stack](#tech-stack)
+- [Open to hire?](#open-to-hire)
+- [Stats & Activity](#stats--activity)
+- [Connect](#connect)
+
+---
+
+## What I build
+I focus on creating reliable, maintainable, and testable full‑stack applications:
+- Scalable APIs and backend services with .NET / C#
+- Responsive frontends with HTML/CSS/JS/TypeScript
+- Containerized deployments and CI/CD for production readiness
+- Database design and performance tuning (Postgres / MySQL / Redis)
+- End-to-end automation and infrastructure improvements
+
+If you have an idea that needs solid backend architecture or a production-ready web app, I love turning that into reality.
+
+---
+
+## Tech stack (high level)
+<div align="center">
+  <!-- Frontend -->
+  <h4>Frontend</h4>
+  <p>
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="36" alt="HTML5" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" height="36" alt="CSS3" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="36" alt="JavaScript" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="36" alt="TypeScript" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="36" alt="Bootstrap" />
+  </p>
+
+  <!-- Backend -->
+  <h4>Backend</h4>
+  <p>
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" height="36" alt="C#" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" height="36" alt=".NET" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="36" alt="PostgreSQL" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="36" alt="MySQL" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" height="36" alt="Redis" />
+  </p>
+
+  <!-- DevOps -->
+  <h4>DevOps & Infra</h4>
+  <p>
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="36" alt="Linux" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" height="36" alt="NGINX" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="36" alt="Git" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" height="36" alt="Azure" />
+    <img style="margin:6px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="36" alt="Bash" />
+  </p>
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## Open to hire?
+Yes — I take on freelance and contract work. I’m happiest when solving backend complexity, building APIs, and setting up reliable CI/CD pipelines.
 
+Prefer short messages first — share a short description of your project, the tech stack, and your timeline.
 
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" />  
+---
+
+## GitHub stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lazyCoder-max&show_icons=true&count_private=true&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCoder-max&layout=compact&hide_border=true" alt="Top languages" />
 </div>
 
-</td></tr></table>  
+---
 
-<br/>  
+## Blogs & recent writing
+I occasionally write about architecture, .NET tips, and deployment patterns. (Link your blog posts here when available.)
 
+---
 
-## Connect with me  
+## Visitors
 <div align="center">
-<a href="https://github.com/lazyCoder-max" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/kidus-daniel" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lazyCoder-max&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyCoder-max&layout=compact" align="center"/>
+  <img src="https://komarev.com/ghpvc/?username=lazyCoder-max&style=flat-square" alt="profile views" />
 </div>
 
+---
 
-## Recent Blog Posts  
-  
+## Let's connect
+<p>
+  <a href="https://github.com/lazyCoder-max" title="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-24292E?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/kidus-daniel" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://t.me/LaziCoder" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://www.buymeacoffee.com/lazyCoder-max" title="Buy me a coffee">
+    <img src="https://img.shields.io/badge/BuyMeACoffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" />
+  </a>
+</p>
 
-<br/>  
+---
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=lazyCoder-max&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center">
-            <a href="https://www.buymeacoffee.com/lazyCoder-max" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
-<br />
-
+<p align="center"><em>Made with ☕ and a passion for pragmatic engineering.</em></p>
