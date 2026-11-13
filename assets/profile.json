@@ -1,0 +1,11 @@
+{
+  "stats": { "repos": 39, "stars": 20, "commits": 0, "followers": 15 },
+  "repos": {
+    "FidelIME": { "stars": 7, "description": "Cross-Platform Ethiopic Input Method plugin and desktop application built with Avalonia UI, XAML and .NET 6", "url": "https://github.com/lazyCoder-max/FidelIME", "language": "C#" },
+    "Launchbase": { "stars": 9, "description": "Decentralized token launcher and presale pool manager for Polygon, Ethereum and other EVM compatible chains", "url": "https://github.com/lazyCoder-max/Launchbase", "language": "HTML" },
+    "WalletConnectJs": { "stars": 2, "description": "A sample Blazor project that connects with WalletConnect using TypeScript", "url": "https://github.com/lazyCoder-max/WalletConnectJs", "language": "CSS" },
+    "SyncPDFViewerInterop": { "stars": 1, "description": "A Blazor interop for the Syncfusion PDFViewer component, giving full customization to Blazor users", "url": "https://github.com/lazyCoder-max/SyncPDFViewerInterop", "language": "C#" },
+    "Demo_Avalonia": { "stars": 1, "description": "Sample application using Avalonia UI and MVVM", "url": "https://github.com/lazyCoder-max/Demo_Avalonia", "language": "C#" }
+  },
+  "posts": []
+}
