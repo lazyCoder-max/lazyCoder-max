@@ -1,0 +1,48 @@
+{
+  "login": "lazyCoder-max",
+  "name": ["KIDUS", "DANIEL"],
+  "role": "SENIOR SOFTWARE ENGINEER",
+  "stack": [".NET", "C#", "BLAZOR", "MAUI", "AI"],
+  "runtime": "DOTNET",
+  "location": "ETHIOPIA",
+  "about": "I'm a software engineer from Ethiopia who spends most days on .NET: C#, Blazor and MAUI. I care about clean code, developer ergonomics, and tooling that makes teams faster. Lately I'm working for PROMAN Software GmbH, an Austrian company, and building small apps on the side through my own studio, FanFavor LLC.",
+
+  "targets": [
+    { "repo": "FidelIME", "label": "FIDEL IME", "tag": "AVALONIA · .NET" },
+    { "repo": "Launchbase", "tag": "WEB3" },
+    { "repo": "WalletConnectJs", "label": "WALLETCONNECT FOR BLAZOR", "tag": "BLAZOR" },
+    { "repo": "SyncPDFViewerInterop", "label": "SYNCFUSION PDF INTEROP", "tag": "BLAZOR" },
+    { "repo": "Demo_Avalonia", "label": "AVALONIA MVVM DEMO", "tag": "AVALONIA" }
+  ],
+
+  "posts": {
+    "count": 3,
+    "one_per_series": true,
+    "feed": "",
+    "items": [
+      {
+        "title": "Hello from the Other Side! Meet Kidus — .NET dev, 6+ yrs",
+        "url": "https://www.youtube.com/watch?v=DYzi4r1pDDw",
+        "date": "2025-01-01",
+        "kind": "VIDEO"
+      },
+      {
+        "title": "FanFavor LLC: web, mobile & AI-powered products",
+        "url": "https://fanfavor.org",
+        "date": "2024-06-01",
+        "kind": "STUDIO"
+      }
+    ],
+    "all_posts_url": "https://fanfavor.org",
+    "all_posts_label": "MORE AT FANFAVOR.ORG"
+  },
+
+  "contacts": [
+    { "label": "LINKEDIN", "url": "https://www.linkedin.com/in/kidus-daniel/" },
+    { "label": "FANFAVOR", "url": "https://fanfavor.org" },
+    { "label": "UPWORK", "url": "https://www.upwork.com/freelancers/~015fa477b11847cc03/" },
+    { "label": "TELEGRAM", "url": "https://t.me/LaziCoder" },
+    { "label": "YOUTUBE", "url": "https://www.youtube.com/watch?v=DYzi4r1pDDw" },
+    { "label": "EMAIL", "url": "mailto:kidusdaniel@outlook.com" }
+  ]
+}
